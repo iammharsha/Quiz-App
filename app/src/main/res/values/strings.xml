@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question">What is your name?</string>
+    <string name="option1">Karthik</string>
+    <string name="option2">Nathan</string>
+    <string name="option3">Karthik</string>
+    <string name="option4">Nathan</string>
+    <string name="score">Your Score is</string>
+</resources>

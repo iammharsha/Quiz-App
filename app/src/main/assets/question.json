@@ -1,0 +1,20 @@
+{
+	"qn":[
+		{
+			"question":"What is your name?",
+			"option1":"Karthik",
+			"option2":"Karthik",
+			"option3":"Karthik",
+			"option4":"Karthik",
+			"answer":"Karthik"
+		},
+		{
+			"question":"What is your age?",
+			"option1":"19",
+			"option2":"20",
+			"option3":"30",
+			"option4":"50",
+			"answer":"50"
+		}
+	]
+}

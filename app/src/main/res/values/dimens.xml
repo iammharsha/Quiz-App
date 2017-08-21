@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="question">30sp</dimen>
+    <dimen name="options">25sp</dimen>
+    <dimen name="scoreText">40sp</dimen>
+</resources>
